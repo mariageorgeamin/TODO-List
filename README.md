@@ -17,7 +17,7 @@ Clone the repo and follow the instructions
 ## Server Folder
 Copy .env.example file inside server folder to .env file 
 
-## Migrate the database
+### Migrate the database
 ```bash
 php artisan migrate
 ```
