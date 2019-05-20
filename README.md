@@ -22,6 +22,11 @@ Copy .env.example file inside server folder to .env file
 php artisan migrate
 ```
 
+### Start the server
+```bash
+php artisan serve
+```
+
 ## Client folder
 To start the project
 
