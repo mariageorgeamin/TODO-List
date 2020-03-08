@@ -36,7 +36,7 @@ php artisan serve
 ```
 
 ## Client folder
-To start the project
+To start the TODOD List project
 
 ```bash
 npm start
