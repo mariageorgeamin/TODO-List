@@ -16,6 +16,9 @@ Clone the repo and follow the instructions
 
 ## Server Folder
 Copy .env.example file inside server folder to .env file 
+```bash
+cp .env.example .env
+```
 
 ### Migrate the database
 ```bash
