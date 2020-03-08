@@ -20,6 +20,11 @@ Copy .env.example file inside server folder to .env file
 cp .env.example .env
 ```
 
+### Composer
+```bash
+composer install
+```
+
 ### Migrate the database
 ```bash
 php artisan migrate
